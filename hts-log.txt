@@ -1,0 +1,460 @@
+HTTrack3.48-21 launched on Thu, 23 Aug 2018 00:23:09 at http://patterson.themerex.net/
+(winhttrack http://patterson.themerex.net/ -O "/home/hp/websites/doctor theme" -Y -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+00:25:16	Error: 	"Method Not Allowed" (405) at link patterson.themerex.net/xmlrpc.php (from patterson.themerex.net/)
+00:25:16	Error: 	"Not Found" (404) at link fonts.googleapis.com/ (from patterson.themerex.net/)
+00:25:16	Warning: 	Note: due to s.w.org remote robots.txt rules, links beginning with these path will be forbidden: /search, /support/search.php, /extend/plugins/search.php, /plugins/search.php, /extend/themes/search.php, /themes/search.php, /support/rss, /archive/ (see in the options to disable this)
+00:25:16	Warning: 	Found for s.w.org/
+00:25:16	Warning: 	File has moved from s.w.org/ to https://wordpress.org/
+00:26:26	Warning: 	Retry after error -4 (No data (connection closed)) at link patterson.themerex.net/home-3/ (from patterson.themerex.net/)
+00:32:18	Warning: 	Retry after error -4 (No data (connection closed)) at link patterson.themerex.net/typography/ (from patterson.themerex.net/)
+00:40:54	Error: 	"Request denied" (999) at link https://www.linkedin.com/in/john-doe-574b13151/ (from patterson.themerex.net/)
+00:40:54	Warning: 	Retry after error -4 (No data (connection closed)) at link patterson.themerex.net/services/medical-treatment/ (from patterson.themerex.net/)
+00:41:06	Warning: 	Retry after error -4 (No data (connection closed)) at link patterson.themerex.net/wp-content/uploads/2018/04/03-760x428.jpg (from patterson.themerex.net/)
+00:41:09	Warning: 	Retry after error -4 (No data (connection closed)) at link patterson.themerex.net/wp-content/uploads/2018/04/05-500x500.jpg (from patterson.themerex.net/)
+00:41:16	Error: 	"Not Found" (404) at link patterson.themerex.net/%22https:/player.vimeo.com/video/124947049?autoplay=1%22 (from patterson.themerex.net/)
+00:41:22	Warning: 	Retry after error -4 (No data (connection closed)) at link patterson.themerex.net/simple-ways-to-plan-enjoy-and-stick-to-a-healthy-diet/ (from patterson.themerex.net/)
+00:41:22	Warning: 	Retry after error -4 (No data (connection closed)) at link patterson.themerex.net/wp-content/uploads/2017/10/partners-5-2-450x253.png (from patterson.themerex.net/)
+00:41:22	Warning: 	Retry after error -4 (No data (connection closed)) at link patterson.themerex.net/wp-content/uploads/2017/10/partners-4-1-450x253.png (from patterson.themerex.net/)
+00:41:23	Warning: 	Retry after error -4 (No data (connection closed)) at link patterson.themerex.net/wp-content/uploads/2017/10/partners-2-1-450x253.png (from patterson.themerex.net/)
+00:41:23	Warning: 	Retry after error -4 (No data (connection closed)) at link patterson.themerex.net/wp-content/uploads/2017/10/partners-1-1-450x253.png (from patterson.themerex.net/)
+00:41:25	Error: 	"error:00000001:lib(0):func(0):reason(1)" (-5) after 2 retries at link https://themeforest.net/robots.txt (from patterson.themerex.net/)
+00:41:25	Warning: 	Retry after error -5 (error:00000001:lib(0):func(0):reason(1)) at link https://themeforest.net/user/themerex/portfolio (from patterson.themerex.net/)
+00:41:25	Warning: 	Retry after error -4 (No data (connection closed)) at link patterson.themerex.net/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4 (from patterson.themerex.net/)
+00:41:25	Error: 	"Not Found" (404) at link patterson.themerex.net/wp-content/themes/dr-patterson/controls.svg (from patterson.themerex.net/wp-content/themes/dr-patterson/style.css)
+00:41:25	Warning: 	Moved Permanently for patterson.themerex.net/?p=323
+00:41:25	Warning: 	File has moved from patterson.themerex.net/?p=323 to http://patterson.themerex.net/home-2/
+00:41:25	Error: 	"Not Found" (404) at link patterson.themerex.net/home-2/%22https:/player.vimeo.com/video/124947049?autoplay=1%22 (from patterson.themerex.net/home-2/)
+00:41:38	Warning: 	Moved Permanently for patterson.themerex.net/?p=789
+00:41:38	Warning: 	File has moved from patterson.themerex.net/?p=789 to http://patterson.themerex.net/home-boxed/
+00:41:38	Error: 	"Method Not Allowed" (405) at link patterson.dr-patterson-dentist.themerex.net/xmlrpc.php (from patterson.dr-patterson-dentist.themerex.net/)
+00:53:16	Error: 	"Not Found" (404) at link patterson.dr-patterson-dentist.themerex.net/%22https:/player.vimeo.com/video/124947049?autoplay=1%22 (from patterson.dr-patterson-dentist.themerex.net/)
+00:53:38	Error: 	"Method Not Allowed" (405) at link patterson.dr-patterson-vet.themerex.net/xmlrpc.php (from patterson.dr-patterson-vet.themerex.net/)
+01:04:57	Error: 	"Not Found" (404) at link patterson.dr-patterson-vet.themerex.net/%22https:/player.vimeo.com/video/58350338?color=ffffff&byline=0&portrait=0&autoplay=1%22 (from patterson.dr-patterson-vet.themerex.net/)
+01:05:37	Warning: 	Moved Permanently for patterson.themerex.net/?p=44
+01:05:37	Warning: 	File has moved from patterson.themerex.net/?p=44 to http://patterson.themerex.net/shortcodes/
+01:05:37	Error: 	"Not Found" (404) at link patterson.themerex.net/shortcodes/%22https:/player.vimeo.com/video/124947049?autoplay=1%22 (from patterson.themerex.net/shortcodes/)
+01:05:37	Warning: 	Retry after error -4 (No data (connection closed)) at link patterson.themerex.net/wp-content/uploads/2017/10/sample-melody.mp3?_=1 (from patterson.themerex.net/shortcodes/)
+01:05:38	Warning: 	Moved Permanently for patterson.themerex.net/?p=31
+01:05:38	Warning: 	File has moved from patterson.themerex.net/?p=31 to http://patterson.themerex.net/support/
+01:05:38	Warning: 	Moved Permanently for patterson.themerex.net/?p=42
+01:05:38	Warning: 	File has moved from patterson.themerex.net/?p=42 to http://patterson.themerex.net/video-tutorials/
+01:05:38	Error: 	"Not Found" (404) at link patterson.themerex.net/video-tutorials/%22https:/www.youtube.com/embed/GGueQfGlTO4?feature=oembed&autoplay=1%22 (from patterson.themerex.net/video-tutorials/)
+01:05:38	Error: 	"Not Found" (404) at link patterson.themerex.net/video-tutorials/%22https:/www.youtube.com/embed/87R1gzeIc8c?feature=oembed&autoplay=1%22 (from patterson.themerex.net/video-tutorials/)
+01:05:38	Error: 	"Not Found" (404) at link patterson.themerex.net/video-tutorials/%22https:/www.youtube.com/embed/_c1qwkUTjpI?feature=oembed&autoplay=1%22 (from patterson.themerex.net/video-tutorials/)
+01:05:38	Error: 	"Not Found" (404) at link patterson.themerex.net/video-tutorials/%22https:/www.youtube.com/embed/Nt3XOFNIK2E?feature=oembed&autoplay=1%22 (from patterson.themerex.net/video-tutorials/)
+01:06:01	Warning: 	Moved Permanently for patterson.themerex.net/?p=255
+01:06:01	Warning: 	File has moved from patterson.themerex.net/?p=255 to http://patterson.themerex.net/my-team/
+01:06:24	Warning: 	Moved Permanently for patterson.themerex.net/?p=201
+01:06:24	Warning: 	File has moved from patterson.themerex.net/?p=201 to http://patterson.themerex.net/schedule/
+01:07:03	Warning: 	Moved Permanently for patterson.themerex.net/?p=147
+01:07:03	Warning: 	File has moved from patterson.themerex.net/?p=147 to http://patterson.themerex.net/gallery-grid/
+01:07:31	Warning: 	Moved Permanently for patterson.themerex.net/?p=149
+01:07:31	Warning: 	File has moved from patterson.themerex.net/?p=149 to http://patterson.themerex.net/gallery-masonry/
+01:07:31	Warning: 	Moved Permanently for patterson.themerex.net/?p=151
+01:07:31	Warning: 	File has moved from patterson.themerex.net/?p=151 to http://patterson.themerex.net/gallery-cobbles/
+01:07:31	Warning: 	Moved Permanently for patterson.themerex.net/?p=273
+01:07:31	Warning: 	File has moved from patterson.themerex.net/?p=273 to http://patterson.themerex.net/about-clinic/
+01:07:31	Warning: 	Moved Permanently for patterson.themerex.net/?p=263
+01:07:31	Warning: 	File has moved from patterson.themerex.net/?p=263 to http://patterson.themerex.net/about-doctor/
+01:07:31	Warning: 	Moved Permanently for patterson.themerex.net/?p=232
+01:07:31	Warning: 	File has moved from patterson.themerex.net/?p=232 to http://patterson.themerex.net/our-services/
+01:07:31	Warning: 	Retry after error -4 (No data (connection closed)) at link patterson.themerex.net/services/surgery/ (from patterson.themerex.net/our-services/)
+01:07:31	Warning: 	Retry after error -4 (No data (connection closed)) at link patterson.themerex.net/wp-content/uploads/2018/04/13-760x428.jpg (from patterson.themerex.net/our-services/)
+01:07:31	Warning: 	Retry after error -4 (No data (connection closed)) at link patterson.themerex.net/services/cardiology/ (from patterson.themerex.net/our-services/)
+01:07:34	Warning: 	Moved Permanently for patterson.themerex.net/?p=208
+01:07:34	Warning: 	File has moved from patterson.themerex.net/?p=208 to http://patterson.themerex.net/prices/
+01:07:34	Error: 	"Not Found" (404) at link patterson.themerex.net/all-posts/%22https:/player.vimeo.com/video/124947049?autoplay=1%22 (from patterson.themerex.net/all-posts/)
+01:08:05	Warning: 	Moved Permanently for patterson.themerex.net/?p=153
+01:08:05	Warning: 	File has moved from patterson.themerex.net/?p=153 to http://patterson.themerex.net/contacts/
+01:08:05	Warning: 	Moved Permanently for patterson.themerex.net/?p=204
+01:08:05	Warning: 	File has moved from patterson.themerex.net/?p=204 to http://patterson.themerex.net/appointment/
+01:08:08	Warning: 	Retry after error 500 (Internal Server Error) at link https://twitter.com/themerex_net/?lang=pl (from https://twitter.com/ThemeREX_net/)
+01:08:10	Error: 	"Not Found" (404) at link https://twitter.com/ThemeREX_net/android-app://com.twitter.android/twitter/user?screen_name=ThemeREX_net&ref_src=twsrc%5Egoogle%7Ctwcamp%5Eandroidseo%7Ctwgr%5Eprofile (from https://twitter.com/ThemeREX_net/)
+01:08:11	Warning: 	Retry after error 500 (Internal Server Error) at link https://twitter.com/ThemeREX_net/?lang=en-gb (from https://twitter.com/ThemeREX_net/)
+01:42:38	Warning: 	Retry after error 500 (Internal Server Error) at link https://twitter.com/ThemeREX_net/status/1022035879081193472 (from https://twitter.com/ThemeREX_net/)
+01:42:38	Warning: 	Found for https://plus.google.com/?lfhs=2
+01:42:38	Warning: 	File has moved from https://plus.google.com/?lfhs=2 to https://plus.google.com/discover
+01:42:38	Error: 	"Not Found" (404) at link https://plus.google.com/ambient/ (from https://plus.google.com/101634583039808365085)
+01:42:38	Error: 	"Not Found" (404) at link https://plus.google.com/appinvite/ (from https://plus.google.com/101634583039808365085)
+01:42:38	Error: 	"Bad Request" (400) at link https://plus.google.com/browser-not-supported/ (from https://plus.google.com/101634583039808365085)
+01:42:38	Error: 	"Not Found" (404) at link https://plus.google.com/businessCenter/ (from https://plus.google.com/101634583039808365085)
+01:42:38	Error: 	"Not Found" (404) at link https://plus.google.com/choice/ (from https://plus.google.com/101634583039808365085)
+01:42:38	Error: 	"Not Found" (404) at link https://plus.google.com/connectedaccounts/ (from https://plus.google.com/101634583039808365085)
+01:42:41	Warning: 	Found for https://plus.google.com/dashboard/
+01:42:41	Warning: 	File has moved from https://plus.google.com/dashboard/ to https://business.google.com/
+01:42:41	Warning: 	Found for https://plus.google.com/downgrade/
+01:42:41	Warning: 	File has moved from https://plus.google.com/downgrade/ to https://accounts.google.com/ServiceLogin?service=oz&passive=1209600&continue=https://plus.google.com/downgrade/?gpsrc%3Dgplp0&rart=ANgoxcfjeGnvJoxFzZyXxwe-LcKzhapYAG797tr5UqdQrhSyXt_mWYh6zlAm63WMEnP6StRVxkRI1-8UZJeTTUHTF310UUsH0g
+01:42:41	Warning: 	Found for https://plus.google.com/events/
+01:42:41	Warning: 	File has moved from https://plus.google.com/events/ to https://accounts.google.com/ServiceLogin?service=oz&passive=1209600&continue=https://plus.google.com/events/?gpsrc%3Dgplp0
+01:42:41	Warning: 	Found for https://plus.google.com/getstarted/
+01:42:41	Warning: 	File has moved from https://plus.google.com/getstarted/ to https://plus.google.com/
+01:42:41	Warning: 	Found for https://plus.google.com/hangouts/
+01:42:41	Warning: 	File has moved from https://plus.google.com/hangouts/ to https://hangouts.google.com?hl=en
+01:42:41	Error: 	"Not Found" (404) at link https://plus.google.com/humans.txt (from https://plus.google.com/101634583039808365085)
+01:42:41	Error: 	"Not Found" (404) at link https://plus.google.com/interstitials/ (from https://plus.google.com/101634583039808365085)
+01:42:41	Warning: 	Found for https://plus.google.com/pages/
+01:42:41	Warning: 	File has moved from https://plus.google.com/pages/ to https://www.google.com/business/
+01:42:41	Warning: 	Found for https://plus.google.com/
+01:42:41	Warning: 	File has moved from https://plus.google.com/ to https://plus.google.com/discover
+01:42:41	Error: 	"Not Found" (404) at link https://plus.google.com/_/ss/ (from https://plus.google.com/101634583039808365085)
+01:42:41	Error: 	"Not Found" (404) at link https://plus.google.com/GET (from https://plus.google.com/101634583039808365085)
+01:42:41	Error: 	"Not Found" (404) at link https://plus.google.com/android-app://com.google.android.apps.plus/https/plus.google.com/+ThemeREXWebStudio (from https://plus.google.com/101634583039808365085)
+01:42:41	Error: 	"Not Found" (404) at link https://plus.google.com/ios-app://447119634/gplus/plus.google.com/+ThemeREXWebStudio (from https://plus.google.com/101634583039808365085)
+01:44:00	Warning: 	Found for https://plus.google.com/up/tos/?hl=en_US
+01:44:00	Warning: 	File has moved from https://plus.google.com/up/tos/?hl=en_US to https://www.google.com/intl/en_in/+/policy/content.html
+02:19:11	Error: 	"Not Found" (404) at link https://plus.google.com/https: (from https://plus.google.com/101634583039808365085)
+02:19:11	Error: 	"Not Found" (404) at link https://plus.google.com/20954040_866507206839047_8875643154068414572_n.jpg (from https://plus.google.com/101634583039808365085)
+02:19:15	Warning: 	Moved Permanently for patterson.themerex.net/?p=275
+02:19:15	Warning: 	File has moved from patterson.themerex.net/?p=275 to http://patterson.themerex.net/services/emergency-help/
+02:19:18	Warning: 	Moved Permanently for patterson.themerex.net/?p=274
+02:19:18	Warning: 	File has moved from patterson.themerex.net/?p=274 to http://patterson.themerex.net/services/regular-examination/
+02:19:18	Warning: 	Moved Permanently for patterson.themerex.net/?p=231
+02:19:18	Warning: 	File has moved from patterson.themerex.net/?p=231 to http://patterson.themerex.net/services/diagnostics/
+02:19:18	Warning: 	Moved Permanently for patterson.themerex.net/?p=230
+02:19:18	Warning: 	File has moved from patterson.themerex.net/?p=230 to http://patterson.themerex.net/services/therapeutics/
+02:19:18	Warning: 	Moved Permanently for patterson.themerex.net/?p=227
+02:19:18	Warning: 	File has moved from patterson.themerex.net/?p=227 to http://patterson.themerex.net/services/laboratory/
+02:19:18	Warning: 	Retry after error -4 (No data (connection closed)) at link patterson.themerex.net/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fpatterson.themerex.net%2Fservices%2Flaboratory%2F&format=xml (from patterson.themerex.net/services/laboratory/)
+02:19:18	Warning: 	Moved Permanently for patterson.themerex.net/?p=87
+02:19:18	Warning: 	File has moved from patterson.themerex.net/?p=87 to http://patterson.themerex.net/video-10-benefits-of-regular-physical-activity/
+02:19:18	Warning: 	Found for https://plus.google.com/up/?continue=https://plus.google.com/share?url%3Dhttp://patterson.themerex.net/video-10-benefits-of-regular-physical-activity/
+02:19:18	Warning: 	File has moved from https://plus.google.com/up/?continue=https://plus.google.com/share?url%3Dhttp://patterson.themerex.net/video-10-benefits-of-regular-physical-activity/ to https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://plus.google.com/up/?continue%3Dhttps://plus.google.com/share?url%253Dhttp://patterson.themerex.net/video-10-benefits-of-regular-physical-activity/&followup=https://plus.google.com/up/?continue%3Dhttps://plus.google.com/share?url%253Dhttp://patterson.themerex.net/video-10-benefits-of-regular-physical-activity/
+02:19:24	Warning: 	Retry after error -4 (No data (connection closed)) at link patterson.themerex.net/wp-content/uploads/2018/04/09-760x428.jpg (from patterson.themerex.net/video-10-benefits-of-regular-physical-activity/)
+02:19:26	Warning: 	Retry after error -4 (No data (connection closed)) at link patterson.themerex.net/wp-content/uploads/2017/10/partners-2-1-450x253.png (from patterson.themerex.net/)
+02:19:26	Warning: 	Retry after error -4 (No data (connection closed)) at link patterson.themerex.net/wp-content/uploads/2017/10/partners-1-1-450x253.png (from patterson.themerex.net/)
+02:19:26	Warning: 	Moved Permanently for patterson.themerex.net/?p=1107
+02:19:26	Warning: 	File has moved from patterson.themerex.net/?p=1107 to http://patterson.themerex.net/privacy-policy/
+02:19:27	Warning: 	Retry after error -5 (error:00000001:lib(0):func(0):reason(1)) at link https://themeforest.net/user/themerex/portfolio (from patterson.themerex.net/)
+02:19:27	Warning: 	Moved Permanently for patterson.themerex.net/?p=91
+02:19:27	Warning: 	File has moved from patterson.themerex.net/?p=91 to http://patterson.themerex.net/celebrating-national-arthritis-awareness-month/
+02:19:27	Warning: 	Found for https://plus.google.com/up/?continue=https://plus.google.com/share?url%3Dhttp://patterson.themerex.net/celebrating-national-arthritis-awareness-month/
+02:19:27	Warning: 	File has moved from https://plus.google.com/up/?continue=https://plus.google.com/share?url%3Dhttp://patterson.themerex.net/celebrating-national-arthritis-awareness-month/ to https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://plus.google.com/up/?continue%3Dhttps://plus.google.com/share?url%253Dhttp://patterson.themerex.net/celebrating-national-arthritis-awareness-month/&followup=https://plus.google.com/up/?continue%3Dhttps://plus.google.com/share?url%253Dhttp://patterson.themerex.net/celebrating-national-arthritis-awareness-month/
+02:19:27	Error: 	"Not Found" (404) at link patterson.themerex.net/celebrating-national-arthritis-awareness-month/%22https:/player.vimeo.com/video/124947049?autoplay=1%22 (from patterson.themerex.net/celebrating-national-arthritis-awareness-month/)
+02:19:27	Warning: 	Moved Permanently for patterson.themerex.net/?p=293
+02:19:27	Warning: 	File has moved from patterson.themerex.net/?p=293 to http://patterson.themerex.net/toothbrush-manual-vs-electric-types-benefits-effectiveness/
+02:19:27	Warning: 	Found for https://plus.google.com/up/?continue=https://plus.google.com/share?url%3Dhttp://patterson.themerex.net/toothbrush-manual-vs-electric-types-benefits-effectiveness/
+02:19:27	Warning: 	File has moved from https://plus.google.com/up/?continue=https://plus.google.com/share?url%3Dhttp://patterson.themerex.net/toothbrush-manual-vs-electric-types-benefits-effectiveness/ to https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://plus.google.com/up/?continue%3Dhttps://plus.google.com/share?url%253Dhttp://patterson.themerex.net/toothbrush-manual-vs-electric-types-benefits-effectiveness/&followup=https://plus.google.com/up/?continue%3Dhttps://plus.google.com/share?url%253Dhttp://patterson.themerex.net/toothbrush-manual-vs-electric-types-benefits-effectiveness/
+02:19:27	Error: 	"Not Found" (404) at link patterson.themerex.net/toothbrush-manual-vs-electric-types-benefits-effectiveness/%22https:/player.vimeo.com/video/124947049?autoplay=1%22 (from patterson.themerex.net/toothbrush-manual-vs-electric-types-benefits-effectiveness/)
+02:19:27	Warning: 	Moved Permanently for patterson.themerex.net/?p=284
+02:19:27	Warning: 	File has moved from patterson.themerex.net/?p=284 to http://patterson.themerex.net/home-3/
+02:19:27	Error: 	"Not Found" (404) at link patterson.themerex.net/home-3/%22https:/player.vimeo.com/video/124947049?autoplay=1%22 (from patterson.themerex.net/home-3/)
+02:19:28	Error: 	"Not Found" (404) at link patterson.dr-patterson-dentist.themerex.net/wp-content/themes/dr-patterson-dentist/controls.svg (from patterson.dr-patterson-dentist.themerex.net/wp-content/themes/dr-patterson-dentist/style.css)
+02:19:28	Warning: 	Moved Permanently for patterson.dr-patterson-dentist.themerex.net/?p=323
+02:19:28	Warning: 	File has moved from patterson.dr-patterson-dentist.themerex.net/?p=323 to http://patterson.dr-patterson-dentist.themerex.net/home-2/
+02:19:28	Error: 	"Not Found" (404) at link patterson.dr-patterson-dentist.themerex.net/home-2/%22https:/player.vimeo.com/video/124947049?autoplay=1%22 (from patterson.dr-patterson-dentist.themerex.net/home-2/)
+02:19:28	Warning: 	Moved Permanently for patterson.dr-patterson-dentist.themerex.net/?p=338
+02:19:28	Warning: 	File has moved from patterson.dr-patterson-dentist.themerex.net/?p=338 to http://patterson.dr-patterson-dentist.themerex.net/home-3/
+02:19:37	Error: 	"Not Found" (404) at link patterson.dr-patterson-dentist.themerex.net/home-3/%22https:/player.vimeo.com/video/124947049?autoplay=1%22 (from patterson.dr-patterson-dentist.themerex.net/home-3/)
+02:19:37	Warning: 	Moved Permanently for patterson.dr-patterson-dentist.themerex.net/?p=789
+02:19:37	Warning: 	File has moved from patterson.dr-patterson-dentist.themerex.net/?p=789 to http://patterson.dr-patterson-dentist.themerex.net/home-boxed/
+02:19:37	Warning: 	Moved Permanently for patterson.dr-patterson-dentist.themerex.net/?p=46
+02:19:37	Warning: 	File has moved from patterson.dr-patterson-dentist.themerex.net/?p=46 to http://patterson.dr-patterson-dentist.themerex.net/typography/
+02:19:59	Warning: 	Moved Permanently for patterson.dr-patterson-dentist.themerex.net/?p=44
+02:19:59	Warning: 	File has moved from patterson.dr-patterson-dentist.themerex.net/?p=44 to http://patterson.dr-patterson-dentist.themerex.net/shortcodes/
+02:20:00	Error: 	"Not Found" (404) at link patterson.dr-patterson-dentist.themerex.net/shortcodes/%22https:/player.vimeo.com/video/124947049?autoplay=1%22 (from patterson.dr-patterson-dentist.themerex.net/shortcodes/)
+02:20:00	Warning: 	Moved Permanently for patterson.dr-patterson-dentist.themerex.net/?p=31
+02:20:00	Warning: 	File has moved from patterson.dr-patterson-dentist.themerex.net/?p=31 to http://patterson.dr-patterson-dentist.themerex.net/support/
+02:20:00	Warning: 	Moved Permanently for patterson.dr-patterson-dentist.themerex.net/?p=42
+02:20:00	Warning: 	File has moved from patterson.dr-patterson-dentist.themerex.net/?p=42 to http://patterson.dr-patterson-dentist.themerex.net/video-tutorials/
+02:20:02	Error: 	"Not Found" (404) at link patterson.dr-patterson-dentist.themerex.net/video-tutorials/%22https:/www.youtube.com/embed/GGueQfGlTO4?feature=oembed&autoplay=1%22 (from patterson.dr-patterson-dentist.themerex.net/video-tutorials/)
+02:20:03	Error: 	"Not Found" (404) at link patterson.dr-patterson-dentist.themerex.net/video-tutorials/%22https:/www.youtube.com/embed/87R1gzeIc8c?feature=oembed&autoplay=1%22 (from patterson.dr-patterson-dentist.themerex.net/video-tutorials/)
+02:20:03	Error: 	"Not Found" (404) at link patterson.dr-patterson-dentist.themerex.net/video-tutorials/%22https:/www.youtube.com/embed/_c1qwkUTjpI?feature=oembed&autoplay=1%22 (from patterson.dr-patterson-dentist.themerex.net/video-tutorials/)
+02:20:03	Error: 	"Not Found" (404) at link patterson.dr-patterson-dentist.themerex.net/video-tutorials/%22https:/www.youtube.com/embed/Nt3XOFNIK2E?feature=oembed&autoplay=1%22 (from patterson.dr-patterson-dentist.themerex.net/video-tutorials/)
+02:20:23	Warning: 	Moved Permanently for patterson.dr-patterson-dentist.themerex.net/?p=255
+02:20:23	Warning: 	File has moved from patterson.dr-patterson-dentist.themerex.net/?p=255 to http://patterson.dr-patterson-dentist.themerex.net/my-team/
+02:20:49	Warning: 	Moved Permanently for patterson.dr-patterson-dentist.themerex.net/?p=201
+02:20:49	Warning: 	File has moved from patterson.dr-patterson-dentist.themerex.net/?p=201 to http://patterson.dr-patterson-dentist.themerex.net/schedule/
+02:21:17	Warning: 	Moved Permanently for patterson.dr-patterson-dentist.themerex.net/?p=147
+02:21:17	Warning: 	File has moved from patterson.dr-patterson-dentist.themerex.net/?p=147 to http://patterson.dr-patterson-dentist.themerex.net/gallery-grid/
+02:21:51	Warning: 	Moved Permanently for patterson.dr-patterson-dentist.themerex.net/?p=149
+02:21:51	Warning: 	File has moved from patterson.dr-patterson-dentist.themerex.net/?p=149 to http://patterson.dr-patterson-dentist.themerex.net/gallery-masonry/
+02:21:51	Warning: 	Moved Permanently for patterson.dr-patterson-dentist.themerex.net/?p=151
+02:21:51	Warning: 	File has moved from patterson.dr-patterson-dentist.themerex.net/?p=151 to http://patterson.dr-patterson-dentist.themerex.net/gallery-cobbles/
+02:21:51	Warning: 	Moved Permanently for patterson.dr-patterson-dentist.themerex.net/?p=273
+02:21:51	Warning: 	File has moved from patterson.dr-patterson-dentist.themerex.net/?p=273 to http://patterson.dr-patterson-dentist.themerex.net/about-clinic/
+02:21:51	Warning: 	Moved Permanently for patterson.dr-patterson-dentist.themerex.net/?p=263
+02:21:51	Warning: 	File has moved from patterson.dr-patterson-dentist.themerex.net/?p=263 to http://patterson.dr-patterson-dentist.themerex.net/about-doctor/
+02:21:52	Warning: 	Moved Permanently for patterson.dr-patterson-dentist.themerex.net/?p=232
+02:21:52	Warning: 	File has moved from patterson.dr-patterson-dentist.themerex.net/?p=232 to http://patterson.dr-patterson-dentist.themerex.net/our-services/
+02:22:00	Warning: 	Moved Permanently for patterson.dr-patterson-dentist.themerex.net/?p=208
+02:22:00	Warning: 	File has moved from patterson.dr-patterson-dentist.themerex.net/?p=208 to http://patterson.dr-patterson-dentist.themerex.net/prices/
+02:22:00	Error: 	"Not Found" (404) at link patterson.dr-patterson-dentist.themerex.net/all-posts/%22https:/player.vimeo.com/video/124947049?autoplay=1%22 (from patterson.dr-patterson-dentist.themerex.net/all-posts/)
+02:22:18	Warning: 	Moved Permanently for patterson.dr-patterson-dentist.themerex.net/?p=153
+02:22:18	Warning: 	File has moved from patterson.dr-patterson-dentist.themerex.net/?p=153 to http://patterson.dr-patterson-dentist.themerex.net/contacts/
+02:22:18	Warning: 	Moved Permanently for patterson.dr-patterson-dentist.themerex.net/?p=204
+02:22:18	Warning: 	File has moved from patterson.dr-patterson-dentist.themerex.net/?p=204 to http://patterson.dr-patterson-dentist.themerex.net/appointment/
+02:22:20	Warning: 	Moved Permanently for patterson.dr-patterson-dentist.themerex.net/?p=276
+02:22:20	Warning: 	File has moved from patterson.dr-patterson-dentist.themerex.net/?p=276 to http://patterson.dr-patterson-dentist.themerex.net/services/dental-treatment/
+02:22:20	Warning: 	Moved Permanently for patterson.dr-patterson-dentist.themerex.net/?p=275
+02:22:20	Warning: 	File has moved from patterson.dr-patterson-dentist.themerex.net/?p=275 to http://patterson.dr-patterson-dentist.themerex.net/services/emergency-help/
+02:22:20	Warning: 	Moved Permanently for patterson.dr-patterson-dentist.themerex.net/?p=274
+02:22:20	Warning: 	File has moved from patterson.dr-patterson-dentist.themerex.net/?p=274 to http://patterson.dr-patterson-dentist.themerex.net/services/regular-examination/
+02:22:20	Warning: 	Moved Permanently for patterson.dr-patterson-dentist.themerex.net/?p=231
+02:22:20	Warning: 	File has moved from patterson.dr-patterson-dentist.themerex.net/?p=231 to http://patterson.dr-patterson-dentist.themerex.net/services/diagnostics/
+02:22:20	Warning: 	Moved Permanently for patterson.dr-patterson-dentist.themerex.net/?p=230
+02:22:20	Warning: 	File has moved from patterson.dr-patterson-dentist.themerex.net/?p=230 to http://patterson.dr-patterson-dentist.themerex.net/services/pediatric-dentistry/
+02:22:20	Warning: 	Moved Permanently for patterson.dr-patterson-dentist.themerex.net/?p=227
+02:22:20	Warning: 	File has moved from patterson.dr-patterson-dentist.themerex.net/?p=227 to http://patterson.dr-patterson-dentist.themerex.net/services/dental-radiography/
+02:22:20	Warning: 	Moved Permanently for patterson.dr-patterson-dentist.themerex.net/?p=87
+02:22:20	Warning: 	File has moved from patterson.dr-patterson-dentist.themerex.net/?p=87 to http://patterson.dr-patterson-dentist.themerex.net/toothbrush-manual-vs-electric-types-benefits-effectiveness/
+02:22:20	Warning: 	Found for https://plus.google.com/up/?continue=https://plus.google.com/share?url%3Dhttp://patterson.dr-patterson-dentist.themerex.net/toothbrush-manual-vs-electric-types-benefits-effectiveness/
+02:22:20	Warning: 	File has moved from https://plus.google.com/up/?continue=https://plus.google.com/share?url%3Dhttp://patterson.dr-patterson-dentist.themerex.net/toothbrush-manual-vs-electric-types-benefits-effectiveness/ to https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://plus.google.com/up/?continue%3Dhttps://plus.google.com/share?url%253Dhttp://patterson.dr-patterson-dentist.themerex.net/toothbrush-manual-vs-electric-types-benefits-effectiveness/&followup=https://plus.google.com/up/?continue%3Dhttps://plus.google.com/share?url%253Dhttp://patterson.dr-patterson-dentist.themerex.net/toothbrush-manual-vs-electric-types-benefits-effectiveness/
+02:22:25	Warning: 	Moved Permanently for patterson.dr-patterson-dentist.themerex.net/?p=89
+02:22:25	Warning: 	File has moved from patterson.dr-patterson-dentist.themerex.net/?p=89 to http://patterson.dr-patterson-dentist.themerex.net/simple-ways-to-plan-enjoy-and-stick-to-a-healthy-diet/
+02:22:25	Warning: 	Found for https://plus.google.com/up/?continue=https://plus.google.com/share?url%3Dhttp://patterson.dr-patterson-dentist.themerex.net/simple-ways-to-plan-enjoy-and-stick-to-a-healthy-diet/
+02:22:25	Warning: 	File has moved from https://plus.google.com/up/?continue=https://plus.google.com/share?url%3Dhttp://patterson.dr-patterson-dentist.themerex.net/simple-ways-to-plan-enjoy-and-stick-to-a-healthy-diet/ to https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://plus.google.com/up/?continue%3Dhttps://plus.google.com/share?url%253Dhttp://patterson.dr-patterson-dentist.themerex.net/simple-ways-to-plan-enjoy-and-stick-to-a-healthy-diet/&followup=https://plus.google.com/up/?continue%3Dhttps://plus.google.com/share?url%253Dhttp://patterson.dr-patterson-dentist.themerex.net/simple-ways-to-plan-enjoy-and-stick-to-a-healthy-diet/
+02:22:26	Warning: 	Moved Permanently for patterson.dr-patterson-dentist.themerex.net/?p=91
+02:22:26	Warning: 	File has moved from patterson.dr-patterson-dentist.themerex.net/?p=91 to http://patterson.dr-patterson-dentist.themerex.net/celebrating-national-dental-health-awareness-month/
+02:22:26	Warning: 	Found for https://plus.google.com/up/?continue=https://plus.google.com/share?url%3Dhttp://patterson.dr-patterson-dentist.themerex.net/celebrating-national-dental-health-awareness-month/
+02:22:26	Warning: 	File has moved from https://plus.google.com/up/?continue=https://plus.google.com/share?url%3Dhttp://patterson.dr-patterson-dentist.themerex.net/celebrating-national-dental-health-awareness-month/ to https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://plus.google.com/up/?continue%3Dhttps://plus.google.com/share?url%253Dhttp://patterson.dr-patterson-dentist.themerex.net/celebrating-national-dental-health-awareness-month/&followup=https://plus.google.com/up/?continue%3Dhttps://plus.google.com/share?url%253Dhttp://patterson.dr-patterson-dentist.themerex.net/celebrating-national-dental-health-awareness-month/
+02:22:26	Error: 	"Not Found" (404) at link patterson.dr-patterson-dentist.themerex.net/celebrating-national-dental-health-awareness-month/%22https:/player.vimeo.com/video/124947049?autoplay=1%22 (from patterson.dr-patterson-dentist.themerex.net/celebrating-national-dental-health-awareness-month/)
+02:22:26	Warning: 	Moved Permanently for patterson.dr-patterson-dentist.themerex.net/?p=293
+02:22:26	Warning: 	File has moved from patterson.dr-patterson-dentist.themerex.net/?p=293 to http://patterson.dr-patterson-dentist.themerex.net/the-tooth-fairy-isnt-a-myth-improving-your-childs-dental-health/
+02:22:26	Warning: 	Found for https://plus.google.com/up/?continue=https://plus.google.com/share?url%3Dhttp://patterson.dr-patterson-dentist.themerex.net/the-tooth-fairy-isnt-a-myth-improving-your-childs-dental-health/
+02:22:26	Warning: 	File has moved from https://plus.google.com/up/?continue=https://plus.google.com/share?url%3Dhttp://patterson.dr-patterson-dentist.themerex.net/the-tooth-fairy-isnt-a-myth-improving-your-childs-dental-health/ to https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://plus.google.com/up/?continue%3Dhttps://plus.google.com/share?url%253Dhttp://patterson.dr-patterson-dentist.themerex.net/the-tooth-fairy-isnt-a-myth-improving-your-childs-dental-health/&followup=https://plus.google.com/up/?continue%3Dhttps://plus.google.com/share?url%253Dhttp://patterson.dr-patterson-dentist.themerex.net/the-tooth-fairy-isnt-a-myth-improving-your-childs-dental-health/
+02:22:26	Warning: 	Moved Permanently for patterson.dr-patterson-dentist.themerex.net/?p=1282
+02:22:26	Warning: 	File has moved from patterson.dr-patterson-dentist.themerex.net/?p=1282 to http://patterson.dr-patterson-dentist.themerex.net/privacy-policy/
+02:22:27	Error: 	"Not Found" (404) at link patterson.dr-patterson-vet.themerex.net/wp-content/themes/dr-patterson-vet/controls.svg (from patterson.dr-patterson-vet.themerex.net/wp-content/themes/dr-patterson-vet/style.css)
+02:22:27	Warning: 	Moved Permanently for patterson.dr-patterson-vet.themerex.net/?p=338
+02:22:27	Warning: 	File has moved from patterson.dr-patterson-vet.themerex.net/?p=338 to http://patterson.dr-patterson-vet.themerex.net/home-2/
+02:22:37	Error: 	"Not Found" (404) at link patterson.dr-patterson-vet.themerex.net/home-2/%22https:/player.vimeo.com/video/58350338?color=ffffff&byline=0&portrait=0&autoplay=1%22 (from patterson.dr-patterson-vet.themerex.net/home-2/)
+02:22:37	Warning: 	Moved Permanently for patterson.dr-patterson-vet.themerex.net/?p=284
+02:22:37	Warning: 	File has moved from patterson.dr-patterson-vet.themerex.net/?p=284 to http://patterson.dr-patterson-vet.themerex.net/home-3/
+02:22:37	Error: 	"Not Found" (404) at link patterson.dr-patterson-vet.themerex.net/home-3/%22https:/player.vimeo.com/video/58350338?color=ffffff&byline=0&portrait=0&autoplay=1%22 (from patterson.dr-patterson-vet.themerex.net/home-3/)
+02:22:37	Warning: 	Moved Permanently for patterson.dr-patterson-vet.themerex.net/?p=789
+02:22:37	Warning: 	File has moved from patterson.dr-patterson-vet.themerex.net/?p=789 to http://patterson.dr-patterson-vet.themerex.net/home-boxed/
+02:22:37	Warning: 	Moved Permanently for patterson.dr-patterson-vet.themerex.net/?p=46
+02:22:37	Warning: 	File has moved from patterson.dr-patterson-vet.themerex.net/?p=46 to http://patterson.dr-patterson-vet.themerex.net/typography/
+02:22:55	Warning: 	Moved Permanently for patterson.dr-patterson-vet.themerex.net/?p=44
+02:22:55	Warning: 	File has moved from patterson.dr-patterson-vet.themerex.net/?p=44 to http://patterson.dr-patterson-vet.themerex.net/shortcodes/
+02:22:56	Error: 	"Not Found" (404) at link patterson.dr-patterson-vet.themerex.net/shortcodes/%22https:/player.vimeo.com/video/58350338?app_id=122963&autoplay=1%22 (from patterson.dr-patterson-vet.themerex.net/shortcodes/)
+02:22:57	Warning: 	Moved Permanently for patterson.dr-patterson-vet.themerex.net/?p=31
+02:22:57	Warning: 	File has moved from patterson.dr-patterson-vet.themerex.net/?p=31 to http://patterson.dr-patterson-vet.themerex.net/support/
+02:22:57	Warning: 	Moved Permanently for patterson.dr-patterson-vet.themerex.net/?p=42
+02:22:57	Warning: 	File has moved from patterson.dr-patterson-vet.themerex.net/?p=42 to http://patterson.dr-patterson-vet.themerex.net/video-tutorials/
+02:22:59	Error: 	"Not Found" (404) at link patterson.dr-patterson-vet.themerex.net/video-tutorials/%22https:/www.youtube.com/embed/GGueQfGlTO4?feature=oembed&autoplay=1%22 (from patterson.dr-patterson-vet.themerex.net/video-tutorials/)
+02:22:59	Error: 	"Not Found" (404) at link patterson.dr-patterson-vet.themerex.net/video-tutorials/%22https:/www.youtube.com/embed/87R1gzeIc8c?feature=oembed&autoplay=1%22 (from patterson.dr-patterson-vet.themerex.net/video-tutorials/)
+02:22:59	Error: 	"Not Found" (404) at link patterson.dr-patterson-vet.themerex.net/video-tutorials/%22https:/www.youtube.com/embed/_c1qwkUTjpI?feature=oembed&autoplay=1%22 (from patterson.dr-patterson-vet.themerex.net/video-tutorials/)
+02:22:59	Error: 	"Not Found" (404) at link patterson.dr-patterson-vet.themerex.net/video-tutorials/%22https:/www.youtube.com/embed/Nt3XOFNIK2E?feature=oembed&autoplay=1%22 (from patterson.dr-patterson-vet.themerex.net/video-tutorials/)
+02:23:16	Warning: 	Moved Permanently for patterson.dr-patterson-vet.themerex.net/?p=255
+02:23:16	Warning: 	File has moved from patterson.dr-patterson-vet.themerex.net/?p=255 to http://patterson.dr-patterson-vet.themerex.net/my-team/
+02:23:46	Warning: 	Moved Permanently for patterson.dr-patterson-vet.themerex.net/?p=201
+02:23:46	Warning: 	File has moved from patterson.dr-patterson-vet.themerex.net/?p=201 to http://patterson.dr-patterson-vet.themerex.net/schedule/
+02:24:04	Warning: 	Moved Permanently for patterson.dr-patterson-vet.themerex.net/?p=147
+02:24:04	Warning: 	File has moved from patterson.dr-patterson-vet.themerex.net/?p=147 to http://patterson.dr-patterson-vet.themerex.net/gallery-grid/
+02:24:34	Warning: 	Moved Permanently for patterson.dr-patterson-vet.themerex.net/?p=149
+02:24:34	Warning: 	File has moved from patterson.dr-patterson-vet.themerex.net/?p=149 to http://patterson.dr-patterson-vet.themerex.net/gallery-masonry/
+02:24:34	Warning: 	Moved Permanently for patterson.dr-patterson-vet.themerex.net/?p=151
+02:24:34	Warning: 	File has moved from patterson.dr-patterson-vet.themerex.net/?p=151 to http://patterson.dr-patterson-vet.themerex.net/gallery-cobbles/
+02:24:34	Warning: 	Moved Permanently for patterson.dr-patterson-vet.themerex.net/?p=273
+02:24:34	Warning: 	File has moved from patterson.dr-patterson-vet.themerex.net/?p=273 to http://patterson.dr-patterson-vet.themerex.net/about-clinic/
+02:24:34	Warning: 	Moved Permanently for patterson.dr-patterson-vet.themerex.net/?p=263
+02:24:34	Warning: 	File has moved from patterson.dr-patterson-vet.themerex.net/?p=263 to http://patterson.dr-patterson-vet.themerex.net/about-doctor/
+02:24:34	Warning: 	Moved Permanently for patterson.dr-patterson-vet.themerex.net/?p=232
+02:24:34	Warning: 	File has moved from patterson.dr-patterson-vet.themerex.net/?p=232 to http://patterson.dr-patterson-vet.themerex.net/our-services/
+02:24:41	Warning: 	Moved Permanently for patterson.dr-patterson-vet.themerex.net/?p=208
+02:24:41	Warning: 	File has moved from patterson.dr-patterson-vet.themerex.net/?p=208 to http://patterson.dr-patterson-vet.themerex.net/prices/
+02:24:41	Error: 	"Not Found" (404) at link patterson.dr-patterson-vet.themerex.net/all-posts/%22https:/player.vimeo.com/video/58350338?color=ffffff&byline=0&portrait=0&autoplay=1%22 (from patterson.dr-patterson-vet.themerex.net/all-posts/)
+02:24:52	Warning: 	Moved Permanently for patterson.dr-patterson-vet.themerex.net/?p=153
+02:24:52	Warning: 	File has moved from patterson.dr-patterson-vet.themerex.net/?p=153 to http://patterson.dr-patterson-vet.themerex.net/contacts/
+02:24:52	Warning: 	Moved Permanently for patterson.dr-patterson-vet.themerex.net/?p=231
+02:24:52	Warning: 	File has moved from patterson.dr-patterson-vet.themerex.net/?p=231 to http://patterson.dr-patterson-vet.themerex.net/services/diagnostics/
+02:24:57	Warning: 	Moved Permanently for patterson.dr-patterson-vet.themerex.net/?p=230
+02:24:57	Warning: 	File has moved from patterson.dr-patterson-vet.themerex.net/?p=230 to http://patterson.dr-patterson-vet.themerex.net/services/therapeutics/
+02:24:57	Warning: 	Moved Permanently for patterson.dr-patterson-vet.themerex.net/?p=227
+02:24:57	Warning: 	File has moved from patterson.dr-patterson-vet.themerex.net/?p=227 to http://patterson.dr-patterson-vet.themerex.net/services/laboratory/
+02:24:57	Warning: 	Moved Permanently for patterson.dr-patterson-vet.themerex.net/?p=87
+02:24:57	Warning: 	File has moved from patterson.dr-patterson-vet.themerex.net/?p=87 to http://patterson.dr-patterson-vet.themerex.net/helping-exotic-animals-that-were-brought-illegaly-and-abandoned/
+02:24:57	Warning: 	Found for https://plus.google.com/up/?continue=https://plus.google.com/share?url%3Dhttp://patterson.dr-patterson-vet.themerex.net/helping-exotic-animals-that-were-brought-illegaly-and-abandoned/
+02:24:57	Warning: 	File has moved from https://plus.google.com/up/?continue=https://plus.google.com/share?url%3Dhttp://patterson.dr-patterson-vet.themerex.net/helping-exotic-animals-that-were-brought-illegaly-and-abandoned/ to https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://plus.google.com/up/?continue%3Dhttps://plus.google.com/share?url%253Dhttp://patterson.dr-patterson-vet.themerex.net/helping-exotic-animals-that-were-brought-illegaly-and-abandoned/&followup=https://plus.google.com/up/?continue%3Dhttps://plus.google.com/share?url%253Dhttp://patterson.dr-patterson-vet.themerex.net/helping-exotic-animals-that-were-brought-illegaly-and-abandoned/
+02:24:59	Warning: 	Moved Permanently for patterson.dr-patterson-vet.themerex.net/?p=89
+02:24:59	Warning: 	File has moved from patterson.dr-patterson-vet.themerex.net/?p=89 to http://patterson.dr-patterson-vet.themerex.net/adopting-a-puppy-is-a-wonderful-thing-for-your-family/
+02:24:59	Warning: 	Found for https://plus.google.com/up/?continue=https://plus.google.com/share?url%3Dhttp://patterson.dr-patterson-vet.themerex.net/adopting-a-puppy-is-a-wonderful-thing-for-your-family/
+02:24:59	Warning: 	File has moved from https://plus.google.com/up/?continue=https://plus.google.com/share?url%3Dhttp://patterson.dr-patterson-vet.themerex.net/adopting-a-puppy-is-a-wonderful-thing-for-your-family/ to https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://plus.google.com/up/?continue%3Dhttps://plus.google.com/share?url%253Dhttp://patterson.dr-patterson-vet.themerex.net/adopting-a-puppy-is-a-wonderful-thing-for-your-family/&followup=https://plus.google.com/up/?continue%3Dhttps://plus.google.com/share?url%253Dhttp://patterson.dr-patterson-vet.themerex.net/adopting-a-puppy-is-a-wonderful-thing-for-your-family/
+02:24:59	Warning: 	Moved Permanently for patterson.dr-patterson-vet.themerex.net/?p=91
+02:24:59	Warning: 	File has moved from patterson.dr-patterson-vet.themerex.net/?p=91 to http://patterson.dr-patterson-vet.themerex.net/serious-injuries-that-your-pet-might-face-if-left-alone/
+02:24:59	Warning: 	Found for https://plus.google.com/up/?continue=https://plus.google.com/share?url%3Dhttp://patterson.dr-patterson-vet.themerex.net/serious-injuries-that-your-pet-might-face-if-left-alone/
+02:24:59	Warning: 	File has moved from https://plus.google.com/up/?continue=https://plus.google.com/share?url%3Dhttp://patterson.dr-patterson-vet.themerex.net/serious-injuries-that-your-pet-might-face-if-left-alone/ to https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://plus.google.com/up/?continue%3Dhttps://plus.google.com/share?url%253Dhttp://patterson.dr-patterson-vet.themerex.net/serious-injuries-that-your-pet-might-face-if-left-alone/&followup=https://plus.google.com/up/?continue%3Dhttps://plus.google.com/share?url%253Dhttp://patterson.dr-patterson-vet.themerex.net/serious-injuries-that-your-pet-might-face-if-left-alone/
+02:24:59	Error: 	"Not Found" (404) at link patterson.dr-patterson-vet.themerex.net/serious-injuries-that-your-pet-might-face-if-left-alone/%22https:/player.vimeo.com/video/58350338?color=ffffff&byline=0&portrait=0&autoplay=1%22 (from patterson.dr-patterson-vet.themerex.net/serious-injuries-that-your-pet-might-face-if-left-alone/)
+02:24:59	Warning: 	Moved Permanently for patterson.dr-patterson-vet.themerex.net/?p=293
+02:24:59	Warning: 	File has moved from patterson.dr-patterson-vet.themerex.net/?p=293 to http://patterson.dr-patterson-vet.themerex.net/finding-out-if-a-rabbit-is-the-right-pet-for-you/
+02:24:59	Warning: 	Found for https://plus.google.com/up/?continue=https://plus.google.com/share?url%3Dhttp://patterson.dr-patterson-vet.themerex.net/finding-out-if-a-rabbit-is-the-right-pet-for-you/
+02:24:59	Warning: 	File has moved from https://plus.google.com/up/?continue=https://plus.google.com/share?url%3Dhttp://patterson.dr-patterson-vet.themerex.net/finding-out-if-a-rabbit-is-the-right-pet-for-you/ to https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://plus.google.com/up/?continue%3Dhttps://plus.google.com/share?url%253Dhttp://patterson.dr-patterson-vet.themerex.net/finding-out-if-a-rabbit-is-the-right-pet-for-you/&followup=https://plus.google.com/up/?continue%3Dhttps://plus.google.com/share?url%253Dhttp://patterson.dr-patterson-vet.themerex.net/finding-out-if-a-rabbit-is-the-right-pet-for-you/
+02:24:59	Error: 	"Not Found" (404) at link patterson.dr-patterson-vet.themerex.net/finding-out-if-a-rabbit-is-the-right-pet-for-you/%22https:/player.vimeo.com/video/58350338?color=ffffff&byline=0&portrait=0&autoplay=1%22 (from patterson.dr-patterson-vet.themerex.net/finding-out-if-a-rabbit-is-the-right-pet-for-you/)
+02:24:59	Warning: 	Moved Permanently for patterson.dr-patterson-vet.themerex.net/?p=1319
+02:24:59	Warning: 	File has moved from patterson.dr-patterson-vet.themerex.net/?p=1319 to http://patterson.dr-patterson-vet.themerex.net/privacy-policy/
+02:24:59	Warning: 	Moved Permanently for patterson.themerex.net/?p=46
+02:24:59	Warning: 	File has moved from patterson.themerex.net/?p=46 to http://patterson.themerex.net/typography/
+02:24:59	Warning: 	Retry after error -4 (No data (connection closed)) at link patterson.themerex.net/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/fonts/fontawesome-webfont.eot?v=4.7.0 (from patterson.themerex.net/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/css/font-awesome.min.css?ver=5.5)
+02:25:00	Warning: 	Retry after error -4 (No data (connection closed)) at link patterson.themerex.net/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0 (from patterson.themerex.net/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/css/font-awesome.min.css?ver=5.5)
+02:25:03	Warning: 	Retry after error -4 (No data (connection closed)) at link patterson.themerex.net/?p=254 (from patterson.themerex.net/team/amy-lee/)
+02:25:12	Warning: 	Retry after error -4 (No data (connection closed)) at link patterson.themerex.net/wp-content/uploads/2017/10/team-4-450x253.jpg (from patterson.themerex.net/team/jessica-mendez/)
+02:25:12	Warning: 	Moved Permanently for patterson.themerex.net/?p=253
+02:25:12	Warning: 	File has moved from patterson.themerex.net/?p=253 to http://patterson.themerex.net/team/jessica-mendez/
+02:25:12	Warning: 	Moved Permanently for patterson.themerex.net/?p=252
+02:25:12	Warning: 	File has moved from patterson.themerex.net/?p=252 to http://patterson.themerex.net/team/kelly-smith/
+02:25:12	Warning: 	Retry after error -4 (No data (connection closed)) at link patterson.themerex.net/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fpatterson.themerex.net%2Fteam%2Fkelly-smith%2F&format=xml (from patterson.themerex.net/team/kelly-smith/)
+02:25:13	Warning: 	Retry after error -4 (No data (connection closed)) at link patterson.themerex.net/?p=251 (from patterson.themerex.net/team/charles-madison/)
+02:25:13	Warning: 	Moved Permanently for patterson.themerex.net/?p=250
+02:25:13	Warning: 	File has moved from patterson.themerex.net/?p=250 to http://patterson.themerex.net/team/sarah-silverstein/
+02:25:13	Warning: 	Retry after error -4 (No data (connection closed)) at link patterson.themerex.net/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fpatterson.themerex.net%2Fteam%2Fsarah-silverstein%2F (from patterson.themerex.net/team/sarah-silverstein/)
+02:25:14	Warning: 	Moved Permanently for patterson.themerex.net/?p=240
+02:25:14	Warning: 	File has moved from patterson.themerex.net/?p=240 to http://patterson.themerex.net/team/mary-wilkins/
+02:25:14	Warning: 	Moved Permanently for patterson.themerex.net/?p=192
+02:25:14	Warning: 	File has moved from patterson.themerex.net/?p=192 to http://patterson.themerex.net/timetable/event/primary-health-care/
+02:25:27	Warning: 	Found for https://plus.google.com/up/?continue=https://plus.google.com/share?url%3Dhttp://patterson.themerex.net/timetable/event/primary-health-care/
+02:25:27	Warning: 	File has moved from https://plus.google.com/up/?continue=https://plus.google.com/share?url%3Dhttp://patterson.themerex.net/timetable/event/primary-health-care/ to https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://plus.google.com/up/?continue%3Dhttps://plus.google.com/share?url%253Dhttp://patterson.themerex.net/timetable/event/primary-health-care/&followup=https://plus.google.com/up/?continue%3Dhttps://plus.google.com/share?url%253Dhttp://patterson.themerex.net/timetable/event/primary-health-care/
+02:25:27	Warning: 	Moved Permanently for patterson.themerex.net/?p=198
+02:25:27	Warning: 	File has moved from patterson.themerex.net/?p=198 to http://patterson.themerex.net/timetable/event/rehabilitation/
+02:25:31	Warning: 	Found for https://plus.google.com/up/?continue=https://plus.google.com/share?url%3Dhttp://patterson.themerex.net/timetable/event/rehabilitation/
+02:25:31	Warning: 	File has moved from https://plus.google.com/up/?continue=https://plus.google.com/share?url%3Dhttp://patterson.themerex.net/timetable/event/rehabilitation/ to https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://plus.google.com/up/?continue%3Dhttps://plus.google.com/share?url%253Dhttp://patterson.themerex.net/timetable/event/rehabilitation/&followup=https://plus.google.com/up/?continue%3Dhttps://plus.google.com/share?url%253Dhttp://patterson.themerex.net/timetable/event/rehabilitation/
+02:25:31	Warning: 	Moved Permanently for patterson.themerex.net/?p=199
+02:25:31	Warning: 	File has moved from patterson.themerex.net/?p=199 to http://patterson.themerex.net/timetable/event/surgical-cases/
+02:25:35	Warning: 	Found for https://plus.google.com/up/?continue=https://plus.google.com/share?url%3Dhttp://patterson.themerex.net/timetable/event/surgical-cases/
+02:25:35	Warning: 	File has moved from https://plus.google.com/up/?continue=https://plus.google.com/share?url%3Dhttp://patterson.themerex.net/timetable/event/surgical-cases/ to https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://plus.google.com/up/?continue%3Dhttps://plus.google.com/share?url%253Dhttp://patterson.themerex.net/timetable/event/surgical-cases/&followup=https://plus.google.com/up/?continue%3Dhttps://plus.google.com/share?url%253Dhttp://patterson.themerex.net/timetable/event/surgical-cases/
+02:25:35	Warning: 	Moved Permanently for patterson.themerex.net/?p=200
+02:25:35	Warning: 	File has moved from patterson.themerex.net/?p=200 to http://patterson.themerex.net/timetable/event/cardiac-exam/
+02:25:35	Warning: 	Found for https://plus.google.com/up/?continue=https://plus.google.com/share?url%3Dhttp://patterson.themerex.net/timetable/event/cardiac-exam/
+02:25:35	Warning: 	File has moved from https://plus.google.com/up/?continue=https://plus.google.com/share?url%3Dhttp://patterson.themerex.net/timetable/event/cardiac-exam/ to https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://plus.google.com/up/?continue%3Dhttps://plus.google.com/share?url%253Dhttp://patterson.themerex.net/timetable/event/cardiac-exam/&followup=https://plus.google.com/up/?continue%3Dhttps://plus.google.com/share?url%253Dhttp://patterson.themerex.net/timetable/event/cardiac-exam/
+02:25:35	Warning: 	Moved Permanently for patterson.themerex.net/?p=124
+02:25:35	Warning: 	File has moved from patterson.themerex.net/?p=124 to http://patterson.themerex.net/how-to-choose-the-right-family-doctor-pediatrician/
+02:25:35	Warning: 	Found for https://plus.google.com/up/?continue=https://plus.google.com/share?url%3Dhttp://patterson.themerex.net/how-to-choose-the-right-family-doctor-pediatrician/
+02:25:35	Warning: 	File has moved from https://plus.google.com/up/?continue=https://plus.google.com/share?url%3Dhttp://patterson.themerex.net/how-to-choose-the-right-family-doctor-pediatrician/ to https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://plus.google.com/up/?continue%3Dhttps://plus.google.com/share?url%253Dhttp://patterson.themerex.net/how-to-choose-the-right-family-doctor-pediatrician/&followup=https://plus.google.com/up/?continue%3Dhttps://plus.google.com/share?url%253Dhttp://patterson.themerex.net/how-to-choose-the-right-family-doctor-pediatrician/
+02:25:35	Warning: 	Moved Permanently for patterson.themerex.net/?p=119
+02:25:35	Warning: 	File has moved from patterson.themerex.net/?p=119 to http://patterson.themerex.net/excersises-for-senior-patients-rehabilitation/
+02:25:35	Warning: 	Found for https://plus.google.com/up/?continue=https://plus.google.com/share?url%3Dhttp://patterson.themerex.net/excersises-for-senior-patients-rehabilitation/
+02:25:35	Warning: 	File has moved from https://plus.google.com/up/?continue=https://plus.google.com/share?url%3Dhttp://patterson.themerex.net/excersises-for-senior-patients-rehabilitation/ to https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://plus.google.com/up/?continue%3Dhttps://plus.google.com/share?url%253Dhttp://patterson.themerex.net/excersises-for-senior-patients-rehabilitation/&followup=https://plus.google.com/up/?continue%3Dhttps://plus.google.com/share?url%253Dhttp://patterson.themerex.net/excersises-for-senior-patients-rehabilitation/
+02:25:35	Warning: 	Moved Permanently for patterson.themerex.net/?p=116
+02:25:35	Warning: 	File has moved from patterson.themerex.net/?p=116 to http://patterson.themerex.net/genetic-testing-offer-for-heart-disease-improvement/
+02:25:35	Warning: 	Found for https://plus.google.com/up/?continue=https://plus.google.com/share?url%3Dhttp://patterson.themerex.net/genetic-testing-offer-for-heart-disease-improvement/
+02:25:35	Warning: 	File has moved from https://plus.google.com/up/?continue=https://plus.google.com/share?url%3Dhttp://patterson.themerex.net/genetic-testing-offer-for-heart-disease-improvement/ to https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://plus.google.com/up/?continue%3Dhttps://plus.google.com/share?url%253Dhttp://patterson.themerex.net/genetic-testing-offer-for-heart-disease-improvement/&followup=https://plus.google.com/up/?continue%3Dhttps://plus.google.com/share?url%253Dhttp://patterson.themerex.net/genetic-testing-offer-for-heart-disease-improvement/
+02:25:35	Warning: 	Moved Permanently for patterson.themerex.net/?p=113
+02:25:35	Warning: 	File has moved from patterson.themerex.net/?p=113 to http://patterson.themerex.net/conjunctivitis-what-is-pink-eye-and-how-can-i-avoid-it/
+02:25:35	Warning: 	Found for https://plus.google.com/up/?continue=https://plus.google.com/share?url%3Dhttp://patterson.themerex.net/conjunctivitis-what-is-pink-eye-and-how-can-i-avoid-it/
+02:25:35	Warning: 	File has moved from https://plus.google.com/up/?continue=https://plus.google.com/share?url%3Dhttp://patterson.themerex.net/conjunctivitis-what-is-pink-eye-and-how-can-i-avoid-it/ to https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://plus.google.com/up/?continue%3Dhttps://plus.google.com/share?url%253Dhttp://patterson.themerex.net/conjunctivitis-what-is-pink-eye-and-how-can-i-avoid-it/&followup=https://plus.google.com/up/?continue%3Dhttps://plus.google.com/share?url%253Dhttp://patterson.themerex.net/conjunctivitis-what-is-pink-eye-and-how-can-i-avoid-it/
+02:25:35	Warning: 	Moved Permanently for patterson.themerex.net/?p=110
+02:25:35	Warning: 	File has moved from patterson.themerex.net/?p=110 to http://patterson.themerex.net/why-clinics-support-national-volunteer-weeks/
+02:25:35	Warning: 	Found for https://plus.google.com/up/?continue=https://plus.google.com/share?url%3Dhttp://patterson.themerex.net/why-clinics-support-national-volunteer-weeks/
+02:25:35	Warning: 	File has moved from https://plus.google.com/up/?continue=https://plus.google.com/share?url%3Dhttp://patterson.themerex.net/why-clinics-support-national-volunteer-weeks/ to https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://plus.google.com/up/?continue%3Dhttps://plus.google.com/share?url%253Dhttp://patterson.themerex.net/why-clinics-support-national-volunteer-weeks/&followup=https://plus.google.com/up/?continue%3Dhttps://plus.google.com/share?url%253Dhttp://patterson.themerex.net/why-clinics-support-national-volunteer-weeks/
+02:25:35	Warning: 	Moved Permanently for patterson.themerex.net/?p=107
+02:25:35	Warning: 	File has moved from patterson.themerex.net/?p=107 to http://patterson.themerex.net/interpreters-and-the-nations-health-clinic/
+02:25:35	Warning: 	Found for https://plus.google.com/up/?continue=https://plus.google.com/share?url%3Dhttp://patterson.themerex.net/interpreters-and-the-nations-health-clinic/
+02:25:35	Warning: 	File has moved from https://plus.google.com/up/?continue=https://plus.google.com/share?url%3Dhttp://patterson.themerex.net/interpreters-and-the-nations-health-clinic/ to https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://plus.google.com/up/?continue%3Dhttps://plus.google.com/share?url%253Dhttp://patterson.themerex.net/interpreters-and-the-nations-health-clinic/&followup=https://plus.google.com/up/?continue%3Dhttps://plus.google.com/share?url%253Dhttp://patterson.themerex.net/interpreters-and-the-nations-health-clinic/
+02:25:35	Warning: 	Moved Permanently for patterson.themerex.net/?p=104
+02:25:35	Warning: 	File has moved from patterson.themerex.net/?p=104 to http://patterson.themerex.net/blood-donors-volunteer-appreciation-wednesday/
+02:25:35	Warning: 	Found for https://plus.google.com/up/?continue=https://plus.google.com/share?url%3Dhttp://patterson.themerex.net/blood-donors-volunteer-appreciation-wednesday/
+02:25:35	Warning: 	File has moved from https://plus.google.com/up/?continue=https://plus.google.com/share?url%3Dhttp://patterson.themerex.net/blood-donors-volunteer-appreciation-wednesday/ to https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://plus.google.com/up/?continue%3Dhttps://plus.google.com/share?url%253Dhttp://patterson.themerex.net/blood-donors-volunteer-appreciation-wednesday/&followup=https://plus.google.com/up/?continue%3Dhttps://plus.google.com/share?url%253Dhttp://patterson.themerex.net/blood-donors-volunteer-appreciation-wednesday/
+02:25:35	Warning: 	Moved Permanently for patterson.themerex.net/?p=102
+02:25:35	Warning: 	File has moved from patterson.themerex.net/?p=102 to http://patterson.themerex.net/dental-hygenists-top-oral-health-tips-during-holidays/
+02:25:35	Warning: 	Found for https://plus.google.com/up/?continue=https://plus.google.com/share?url%3Dhttp://patterson.themerex.net/dental-hygenists-top-oral-health-tips-during-holidays/
+02:25:35	Warning: 	File has moved from https://plus.google.com/up/?continue=https://plus.google.com/share?url%3Dhttp://patterson.themerex.net/dental-hygenists-top-oral-health-tips-during-holidays/ to https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://plus.google.com/up/?continue%3Dhttps://plus.google.com/share?url%253Dhttp://patterson.themerex.net/dental-hygenists-top-oral-health-tips-during-holidays/&followup=https://plus.google.com/up/?continue%3Dhttps://plus.google.com/share?url%253Dhttp://patterson.themerex.net/dental-hygenists-top-oral-health-tips-during-holidays/
+02:25:35	Warning: 	Moved Permanently for patterson.themerex.net/?p=100
+02:25:35	Warning: 	File has moved from patterson.themerex.net/?p=100 to http://patterson.themerex.net/tired-kids-why-teenagers-need-more-sleep-time/
+02:25:35	Warning: 	Found for https://plus.google.com/up/?continue=https://plus.google.com/share?url%3Dhttp://patterson.themerex.net/tired-kids-why-teenagers-need-more-sleep-time/
+02:25:35	Warning: 	File has moved from https://plus.google.com/up/?continue=https://plus.google.com/share?url%3Dhttp://patterson.themerex.net/tired-kids-why-teenagers-need-more-sleep-time/ to https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://plus.google.com/up/?continue%3Dhttps://plus.google.com/share?url%253Dhttp://patterson.themerex.net/tired-kids-why-teenagers-need-more-sleep-time/&followup=https://plus.google.com/up/?continue%3Dhttps://plus.google.com/share?url%253Dhttp://patterson.themerex.net/tired-kids-why-teenagers-need-more-sleep-time/
+02:25:35	Warning: 	Moved Permanently for patterson.themerex.net/?p=85
+02:25:35	Warning: 	File has moved from patterson.themerex.net/?p=85 to http://patterson.themerex.net/expanded-preventive-food-pantry-and-demonstration-kitchen/
+02:25:35	Warning: 	Found for https://plus.google.com/up/?continue=https://plus.google.com/share?url%3Dhttp://patterson.themerex.net/expanded-preventive-food-pantry-and-demonstration-kitchen/
+02:25:35	Warning: 	File has moved from https://plus.google.com/up/?continue=https://plus.google.com/share?url%3Dhttp://patterson.themerex.net/expanded-preventive-food-pantry-and-demonstration-kitchen/ to https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://plus.google.com/up/?continue%3Dhttps://plus.google.com/share?url%253Dhttp://patterson.themerex.net/expanded-preventive-food-pantry-and-demonstration-kitchen/&followup=https://plus.google.com/up/?continue%3Dhttps://plus.google.com/share?url%253Dhttp://patterson.themerex.net/expanded-preventive-food-pantry-and-demonstration-kitchen/
+02:25:35	Warning: 	Moved Permanently for patterson.themerex.net/?p=83
+02:25:35	Warning: 	File has moved from patterson.themerex.net/?p=83 to http://patterson.themerex.net/medical-center-increases-access-to-healthy-food-with-opening/
+02:25:35	Warning: 	Found for https://plus.google.com/up/?continue=https://plus.google.com/share?url%3Dhttp://patterson.themerex.net/medical-center-increases-access-to-healthy-food-with-opening/
+02:25:35	Warning: 	File has moved from https://plus.google.com/up/?continue=https://plus.google.com/share?url%3Dhttp://patterson.themerex.net/medical-center-increases-access-to-healthy-food-with-opening/ to https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://plus.google.com/up/?continue%3Dhttps://plus.google.com/share?url%253Dhttp://patterson.themerex.net/medical-center-increases-access-to-healthy-food-with-opening/&followup=https://plus.google.com/up/?continue%3Dhttps://plus.google.com/share?url%253Dhttp://patterson.themerex.net/medical-center-increases-access-to-healthy-food-with-opening/
+02:25:39	Warning: 	Moved Permanently for patterson.themerex.net/?p=218
+02:25:39	Warning: 	File has moved from patterson.themerex.net/?p=218 to http://patterson.themerex.net/services/physical-therapy/
+02:25:39	Warning: 	Retry after error -4 (No data (connection closed)) at link patterson.themerex.net/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fpatterson.themerex.net%2Fservices%2Fphysical-therapy%2F (from patterson.themerex.net/services/physical-therapy/)
+02:25:39	Warning: 	Moved Permanently for patterson.themerex.net/?p=93
+02:25:39	Warning: 	File has moved from patterson.themerex.net/?p=93 to http://patterson.themerex.net/93-2/
+02:25:39	Warning: 	Found for https://plus.google.com/up/?continue=https://plus.google.com/share?url%3Dhttp://patterson.themerex.net/93-2/
+02:25:39	Warning: 	File has moved from https://plus.google.com/up/?continue=https://plus.google.com/share?url%3Dhttp://patterson.themerex.net/93-2/ to https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://plus.google.com/up/?continue%3Dhttps://plus.google.com/share?url%253Dhttp://patterson.themerex.net/93-2/&followup=https://plus.google.com/up/?continue%3Dhttps://plus.google.com/share?url%253Dhttp://patterson.themerex.net/93-2/
+02:25:39	Warning: 	Moved Permanently for patterson.themerex.net/?p=296
+02:25:39	Warning: 	File has moved from patterson.themerex.net/?p=296 to http://patterson.themerex.net/is-stress-making-your-skin-freak-out-heres-what-you-need-to-do/
+02:25:39	Warning: 	Found for https://plus.google.com/up/?continue=https://plus.google.com/share?url%3Dhttp://patterson.themerex.net/is-stress-making-your-skin-freak-out-heres-what-you-need-to-do/
+02:25:39	Warning: 	File has moved from https://plus.google.com/up/?continue=https://plus.google.com/share?url%3Dhttp://patterson.themerex.net/is-stress-making-your-skin-freak-out-heres-what-you-need-to-do/ to https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://plus.google.com/up/?continue%3Dhttps://plus.google.com/share?url%253Dhttp://patterson.themerex.net/is-stress-making-your-skin-freak-out-heres-what-you-need-to-do/&followup=https://plus.google.com/up/?continue%3Dhttps://plus.google.com/share?url%253Dhttp://patterson.themerex.net/is-stress-making-your-skin-freak-out-heres-what-you-need-to-do/
+02:25:39	Warning: 	Moved Permanently for patterson.themerex.net/?p=95
+02:25:39	Warning: 	File has moved from patterson.themerex.net/?p=95 to http://patterson.themerex.net/95-2/
+02:25:39	Warning: 	Found for https://plus.google.com/up/?continue=https://plus.google.com/share?url%3Dhttp://patterson.themerex.net/95-2/
+02:25:39	Warning: 	File has moved from https://plus.google.com/up/?continue=https://plus.google.com/share?url%3Dhttp://patterson.themerex.net/95-2/ to https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://plus.google.com/up/?continue%3Dhttps://plus.google.com/share?url%253Dhttp://patterson.themerex.net/95-2/&followup=https://plus.google.com/up/?continue%3Dhttps://plus.google.com/share?url%253Dhttp://patterson.themerex.net/95-2/
+02:25:39	Warning: 	Moved Permanently for patterson.themerex.net/?p=98
+02:25:39	Warning: 	File has moved from patterson.themerex.net/?p=98 to http://patterson.themerex.net/smile-the-importance-of-oral-health/
+02:25:39	Warning: 	Found for https://plus.google.com/up/?continue=https://plus.google.com/share?url%3Dhttp://patterson.themerex.net/smile-the-importance-of-oral-health/
+02:25:39	Warning: 	File has moved from https://plus.google.com/up/?continue=https://plus.google.com/share?url%3Dhttp://patterson.themerex.net/smile-the-importance-of-oral-health/ to https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://plus.google.com/up/?continue%3Dhttps://plus.google.com/share?url%253Dhttp://patterson.themerex.net/smile-the-importance-of-oral-health/&followup=https://plus.google.com/up/?continue%3Dhttps://plus.google.com/share?url%253Dhttp://patterson.themerex.net/smile-the-importance-of-oral-health/
+02:25:39	Warning: 	Retry after error -4 (No data (connection closed)) at link patterson.themerex.net/wp-content/uploads/2018/04/13-500x500.jpg (from patterson.themerex.net/all-posts/page/2/)
+02:25:42	Warning: 	Retry after error -4 (No data (connection closed)) at link patterson.themerex.net/wp-content/uploads/2018/04/16-500x500.jpg (from patterson.themerex.net/all-posts/page/2/)
+02:25:42	Warning: 	Retry after error -4 (No data (connection closed)) at link patterson.themerex.net/category/clinics-and-services/"https://player.vimeo.com/video/124947049?autoplay=1%22 (from patterson.themerex.net/category/clinics-and-services/)
+02:25:42	Warning: 	Retry after error -4 (No data (connection closed)) at link patterson.themerex.net/category/medical-equipment/feed/ (from patterson.themerex.net/category/medical-equipment/)
+02:25:42	Warning: 	Retry after error -4 (No data (connection closed)) at link patterson.themerex.net/category/online-diagnostic/feed/ (from patterson.themerex.net/category/online-diagnostic/)
+02:25:42	Error: 	"Not Found" (404) at link patterson.themerex.net/category/prolong-your-life/%22https:/player.vimeo.com/video/124947049?autoplay=1%22 (from patterson.themerex.net/category/prolong-your-life/)
+02:25:42	Error: 	"Not Found" (404) at link patterson.themerex.net/tag/methods/%22https:/player.vimeo.com/video/124947049?autoplay=1%22 (from patterson.themerex.net/tag/methods/)
+02:25:42	Error: 	"Not Found" (404) at link patterson.themerex.net/tag/patients/%22https:/player.vimeo.com/video/124947049?autoplay=1%22 (from patterson.themerex.net/tag/patients/)
+02:25:44	Error: 	"Not Found" (404) at link patterson.themerex.net/2017/10/%22https:/player.vimeo.com/video/124947049?autoplay=1%22 (from patterson.themerex.net/2017/10/)
+02:25:52	Error: 	"Not Found" (404) at link https://twitter.com/themerex_net/android-app://com.twitter.android/twitter/user?screen_name=ThemeREX_net&ref_src=twsrc%5Egoogle%7Ctwcamp%5Eandroidseo%7Ctwgr%5Eprofile (from https://twitter.com/themerex_net/)
+02:25:52	Warning: 	Retry after error 500 (Internal Server Error) at link https://twitter.com/themerex_net/?lang=pl (from https://twitter.com/ThemeREX_net/)
+02:25:58	Error: 	"Not Found" (404) at link https://twitter.com/ThemeREX_net/android-app://com.twitter.android/twitter/user/media?screen_name=ThemeREX_net&ref_src=twsrc%5Egoogle%7Ctwcamp%5Eandroidseo%7Ctwgr%5Eprofile_media (from https://twitter.com/ThemeREX_net/media)
+02:26:01	Warning: 	Retry after error 500 (Internal Server Error) at link https://twitter.com/ThemeREX_net/media?lang=he (from https://twitter.com/ThemeREX_net/media)
+02:32:09	Warning: 	Retry after error 500 (Internal Server Error) at link https://twitter.com/themerex_net/status/1032231953653747715?lang=hu (from https://twitter.com/ThemeREX_net/status/1032231953653747715)
+02:32:10	Error: 	"Not Found" (404) at link https://twitter.com/ThemeREX_net/status/android-app://com.twitter.android/twitter/tweet?status_id=1032231953653747715&ref_src=twsrc%5Egoogle%7Ctwcamp%5Eandroidseo%7Ctwgr%5Estatus%7Ctwterm%5E1032231953653747715 (from https://twitter.com/ThemeREX_net/status/1032231953653747715)
+02:32:11	Warning: 	Retry after error 500 (Internal Server Error) at link https://twitter.com/ThemeREX_net/status/1032231953653747715?lang=msa (from https://twitter.com/ThemeREX_net/status/1032231953653747715)
+02:32:12	Warning: 	Retry after error 500 (Internal Server Error) at link https://twitter.com/ThemeREX_net/status/1032231953653747715?lang=uk (from https://twitter.com/ThemeREX_net/status/1032231953653747715)
+02:32:15	Warning: 	Retry after error 500 (Internal Server Error) at link https://twitter.com/themerex_net/status/1031899165389811712?lang=fi (from https://twitter.com/ThemeREX_net/status/1031899165389811712)
+02:32:15	Warning: 	Retry after error 500 (Internal Server Error) at link https://twitter.com/themerex_net/status/1031899165389811712?lang=eu (from https://twitter.com/ThemeREX_net/status/1031899165389811712)
+02:32:16	Error: 	"Not Found" (404) at link https://twitter.com/ThemeREX_net/status/android-app://com.twitter.android/twitter/tweet?status_id=1031899165389811712&ref_src=twsrc%5Egoogle%7Ctwcamp%5Eandroidseo%7Ctwgr%5Estatus%7Ctwterm%5E1031899165389811712 (from https://twitter.com/ThemeREX_net/status/1031899165389811712)
+02:32:18	Warning: 	Retry after error 500 (Internal Server Error) at link https://twitter.com/ThemeREX_net/status/1031899165389811712?lang=he (from https://twitter.com/ThemeREX_net/status/1031899165389811712)
+02:32:21	Warning: 	Retry after error 500 (Internal Server Error) at link https://twitter.com/themerex_net/status/1031545561562927104?lang=hu (from https://twitter.com/ThemeREX_net/status/1031545561562927104)
+02:32:22	Error: 	"Not Found" (404) at link https://twitter.com/ThemeREX_net/status/android-app://com.twitter.android/twitter/tweet?status_id=1031545561562927104&ref_src=twsrc%5Egoogle%7Ctwcamp%5Eandroidseo%7Ctwgr%5Estatus%7Ctwterm%5E1031545561562927104 (from https://twitter.com/ThemeREX_net/status/1031545561562927104)
+02:32:28	Warning: 	Retry after error 500 (Internal Server Error) at link https://twitter.com/themerex_net/status/1030022945605857283?lang=pt (from https://twitter.com/ThemeREX_net/status/1030022945605857283)
+02:32:28	Warning: 	Retry after error 500 (Internal Server Error) at link https://twitter.com/themerex_net/status/1030022945605857283?lang=fil (from https://twitter.com/ThemeREX_net/status/1030022945605857283)
+02:32:29	Error: 	"Not Found" (404) at link https://twitter.com/ThemeREX_net/status/android-app://com.twitter.android/twitter/tweet?status_id=1030022945605857283&ref_src=twsrc%5Egoogle%7Ctwcamp%5Eandroidseo%7Ctwgr%5Estatus%7Ctwterm%5E1030022945605857283 (from https://twitter.com/ThemeREX_net/status/1030022945605857283)
+02:32:36	Warning: 	Retry after error 500 (Internal Server Error) at link https://twitter.com/ThemeREX_net/status/android-app://com.twitter.android/twitter/tweet?status_id=1029700018511511552&ref_src=twsrc%5Egoogle%7Ctwcamp%5Eandroidseo%7Ctwgr%5Estatus%7Ctwterm%5E1029700018511511552 (from https://twitter.com/ThemeREX_net/status/1029700018511511552)
+02:32:38	Warning: 	Retry after error 500 (Internal Server Error) at link https://twitter.com/ThemeREX_net/status/1029700018511511552?lang=ca (from https://twitter.com/ThemeREX_net/status/1029700018511511552)
+02:32:39	Warning: 	Retry after error 500 (Internal Server Error) at link https://twitter.com/ThemeREX_net/status/1029700018511511552?lang=hu (from https://twitter.com/ThemeREX_net/status/1029700018511511552)
+02:32:44	Error: 	"Not Found" (404) at link https://twitter.com/ThemeREX_net/status/android-app://com.twitter.android/twitter/tweet?status_id=1029300378163183616&ref_src=twsrc%5Egoogle%7Ctwcamp%5Eandroidseo%7Ctwgr%5Estatus%7Ctwterm%5E1029300378163183616 (from https://twitter.com/ThemeREX_net/status/1029300378163183616)
+02:32:50	Error: 	"Not Found" (404) at link https://twitter.com/ThemeREX_net/status/android-app://com.twitter.android/twitter/tweet?status_id=1028964347937255429&ref_src=twsrc%5Egoogle%7Ctwcamp%5Eandroidseo%7Ctwgr%5Estatus%7Ctwterm%5E1028964347937255429 (from https://twitter.com/ThemeREX_net/status/1028964347937255429)
+02:32:54	Warning: 	Retry after error 500 (Internal Server Error) at link https://twitter.com/themerex_net/status/1027927438263758849?lang=hi (from https://twitter.com/ThemeREX_net/status/1027927438263758849)
+02:32:55	Error: 	"Not Found" (404) at link https://twitter.com/ThemeREX_net/status/android-app://com.twitter.android/twitter/tweet?status_id=1027927438263758849&ref_src=twsrc%5Egoogle%7Ctwcamp%5Eandroidseo%7Ctwgr%5Estatus%7Ctwterm%5E1027927438263758849 (from https://twitter.com/ThemeREX_net/status/1027927438263758849)
+02:33:00	Warning: 	Retry after error 500 (Internal Server Error) at link https://twitter.com/themerex_net/status/1027563401118195712?lang=uk (from https://twitter.com/ThemeREX_net/status/1027563401118195712)
+02:33:00	Warning: 	Retry after error 500 (Internal Server Error) at link https://twitter.com/themerex_net/status/1027563401118195712?lang=ga (from https://twitter.com/ThemeREX_net/status/1027563401118195712)
+02:33:01	Warning: 	Retry after error 500 (Internal Server Error) at link https://twitter.com/themerex_net/status/1027563401118195712?lang=kn (from https://twitter.com/ThemeREX_net/status/1027563401118195712)
+02:33:01	Error: 	"Not Found" (404) at link https://twitter.com/ThemeREX_net/status/android-app://com.twitter.android/twitter/tweet?status_id=1027563401118195712&ref_src=twsrc%5Egoogle%7Ctwcamp%5Eandroidseo%7Ctwgr%5Estatus%7Ctwterm%5E1027563401118195712 (from https://twitter.com/ThemeREX_net/status/1027563401118195712)
+02:33:07	Warning: 	Retry after error 500 (Internal Server Error) at link https://twitter.com/themerex_net/status/1026767361288937473?lang=hu (from https://twitter.com/ThemeREX_net/status/1026767361288937473)
+02:33:08	Error: 	"Not Found" (404) at link https://twitter.com/ThemeREX_net/status/android-app://com.twitter.android/twitter/tweet?status_id=1026767361288937473&ref_src=twsrc%5Egoogle%7Ctwcamp%5Eandroidseo%7Ctwgr%5Estatus%7Ctwterm%5E1026767361288937473 (from https://twitter.com/ThemeREX_net/status/1026767361288937473)
+02:33:16	Warning: 	Retry after error 500 (Internal Server Error) at link https://twitter.com/themerex_net/status/1026399388783050752?lang=ta (from https://twitter.com/ThemeREX_net/status/1026399388783050752)
+02:33:16	Error: 	"Not Found" (404) at link https://twitter.com/ThemeREX_net/status/android-app://com.twitter.android/twitter/tweet?status_id=1026399388783050752&ref_src=twsrc%5Egoogle%7Ctwcamp%5Eandroidseo%7Ctwgr%5Estatus%7Ctwterm%5E1026399388783050752 (from https://twitter.com/ThemeREX_net/status/1026399388783050752)
+02:33:22	Warning: 	Retry after error 500 (Internal Server Error) at link https://twitter.com/themerex_net/status/1025388649741987840?lang=ko (from https://twitter.com/ThemeREX_net/status/1025388649741987840)
+02:33:22	Warning: 	Retry after error 500 (Internal Server Error) at link https://twitter.com/themerex_net/status/1025388649741987840?lang=hr (from https://twitter.com/ThemeREX_net/status/1025388649741987840)
+02:33:23	Error: 	"Not Found" (404) at link https://twitter.com/ThemeREX_net/status/android-app://com.twitter.android/twitter/tweet?status_id=1025388649741987840&ref_src=twsrc%5Egoogle%7Ctwcamp%5Eandroidseo%7Ctwgr%5Estatus%7Ctwterm%5E1025388649741987840 (from https://twitter.com/ThemeREX_net/status/1025388649741987840)
+02:33:25	Warning: 	Retry after error 500 (Internal Server Error) at link https://twitter.com/ThemeREX_net/status/1025388649741987840?lang=sv (from https://twitter.com/ThemeREX_net/status/1025388649741987840)
+02:33:29	Error: 	"Not Found" (404) at link https://twitter.com/ThemeREX_net/status/android-app://com.twitter.android/twitter/tweet?status_id=1024985317588328449&ref_src=twsrc%5Egoogle%7Ctwcamp%5Eandroidseo%7Ctwgr%5Estatus%7Ctwterm%5E1024985317588328449 (from https://twitter.com/ThemeREX_net/status/1024985317588328449)
+02:33:31	Warning: 	Retry after error 500 (Internal Server Error) at link https://twitter.com/ThemeREX_net/status/1024985317588328449?lang=pt (from https://twitter.com/ThemeREX_net/status/1024985317588328449)
+02:33:31	Warning: 	Retry after error 500 (Internal Server Error) at link https://twitter.com/ThemeREX_net/status/1024985317588328449?lang=kn (from https://twitter.com/ThemeREX_net/status/1024985317588328449)
+02:33:35	Error: 	"Not Found" (404) at link https://twitter.com/ThemeREX_net/status/android-app://com.twitter.android/twitter/tweet?status_id=1023946472457424901&ref_src=twsrc%5Egoogle%7Ctwcamp%5Eandroidseo%7Ctwgr%5Estatus%7Ctwterm%5E1023946472457424901 (from https://twitter.com/ThemeREX_net/status/1023946472457424901)
+02:33:42	Error: 	"Not Found" (404) at link https://twitter.com/ThemeREX_net/status/android-app://com.twitter.android/twitter/tweet?status_id=1022749018764595200&ref_src=twsrc%5Egoogle%7Ctwcamp%5Eandroidseo%7Ctwgr%5Estatus%7Ctwterm%5E1022749018764595200 (from https://twitter.com/ThemeREX_net/status/1022749018764595200)
+02:33:48	Warning: 	Retry after error 500 (Internal Server Error) at link https://twitter.com/themerex_net/status/1022449503905964033?lang=th (from https://twitter.com/ThemeREX_net/status/1022449503905964033)
+02:33:48	Error: 	"Not Found" (404) at link https://twitter.com/ThemeREX_net/status/android-app://com.twitter.android/twitter/tweet?status_id=1022449503905964033&ref_src=twsrc%5Egoogle%7Ctwcamp%5Eandroidseo%7Ctwgr%5Estatus%7Ctwterm%5E1022449503905964033 (from https://twitter.com/ThemeREX_net/status/1022449503905964033)
+02:33:50	Warning: 	Retry after error 500 (Internal Server Error) at link https://twitter.com/ThemeREX_net/status/1022449503905964033?lang=es (from https://twitter.com/ThemeREX_net/status/1022449503905964033)
+02:33:51	Warning: 	Retry after error 500 (Internal Server Error) at link https://twitter.com/ThemeREX_net/status/1022449503905964033?lang=vi (from https://twitter.com/ThemeREX_net/status/1022449503905964033)
+02:33:51	Warning: 	Retry after error 500 () at link https://twitter.com/ThemeREX_net/status/1022035879081193472 (from https://twitter.com/ThemeREX_net/)
+02:34:07	Warning: 	Found for https://plus.google.com/?hl=en_US
+02:34:07	Warning: 	File has moved from https://plus.google.com/?hl=en_US to https://plus.google.com/discover?hl=en_US
+03:54:20	Error: 	"Not Found" (404) at link https://plus.google.com/Red-Japanese-Maple-Leaves-1-1-1-by-Shawn-McClure.jpg (from https://plus.google.com/discover)
+03:54:21	Error: 	"Not Found" (404) at link https://plus.google.com/ChrisSutton-20180822--04280-blossom2.jpg (from https://plus.google.com/discover)
+03:54:22	Error: 	"Not Found" (404) at link https://plus.google.com/ChrisSutton-20180803--04040-chef.jpg (from https://plus.google.com/discover)
+03:54:23	Error: 	"Not Found" (404) at link https://plus.google.com/testmedia.jpg (from https://plus.google.com/discover)
+04:28:02	Error: 	"Not Found" (404) at link https://plus.google.com/FB_bunner_bazinga (2).jpg (from https://plus.google.com/collection/c8-mWE)
+04:44:46	Error: 	"Not Found" (404) at link https://plus.google.com/32403474_446959835765868_8444238155879546880_n.jpg (from https://plus.google.com/communities/101926724139429488898)
+04:44:48	Error: 	"Not Found" (404) at link https://plus.google.com/0.jpg (from https://plus.google.com/communities/101926724139429488898)
+04:44:50	Error: 	"Not Found" (404) at link https://plus.google.com/cognitive-seo.jpg (from https://plus.google.com/communities/101926724139429488898)
+04:44:50	Error: 	"Not Found" (404) at link https://plus.google.com/seo skills (from https://plus.google.com/communities/101926724139429488898)
+04:51:56	Error: 	"Not Found" (404) at link https://plus.google.com/katelyn-1.jpg (from https://plus.google.com/communities/101926724139429488898/stream/7dbca911-b3b0-4c5f-891d-606350d80f5a)
+04:51:57	Error: 	"Not Found" (404) at link https://plus.google.com/screenshot-demo.weblizar.com-2018.07.05-16-37-00.png (from https://plus.google.com/communities/101926724139429488898/stream/7dbca911-b3b0-4c5f-891d-606350d80f5a)
+04:51:57	Error: 	"Not Found" (404) at link https://plus.google.com/screenshot-demo.weblizar.com-2018.07.05-16-36-11.png (from https://plus.google.com/communities/101926724139429488898/stream/7dbca911-b3b0-4c5f-891d-606350d80f5a)
+04:51:57	Error: 	"Not Found" (404) at link https://plus.google.com/android-app://com.google.android.apps.plus/https/plus.google.com/+ThemeREXWebStudio/posts/Db45WYwuyTQ (from https://plus.google.com/+ThemeREXWebStudio/posts/Db45WYwuyTQ)
+04:51:57	Error: 	"Not Found" (404) at link https://plus.google.com/ios-app://447119634/gplus/plus.google.com/+ThemeREXWebStudio/posts/Db45WYwuyTQ (from https://plus.google.com/+ThemeREXWebStudio/posts/Db45WYwuyTQ)
+12:23:36	Error: 	"Not Found" (404) at link https://plus.google.com/android-app://com.google.android.apps.plus/https/plus.google.com/+ThemeREXWebStudio/posts/PsJ3zSBJPBN (from https://plus.google.com/+ThemeREXWebStudio/posts/PsJ3zSBJPBN)
+12:23:36	Error: 	"Not Found" (404) at link https://plus.google.com/ios-app://447119634/gplus/plus.google.com/+ThemeREXWebStudio/posts/PsJ3zSBJPBN (from https://plus.google.com/+ThemeREXWebStudio/posts/PsJ3zSBJPBN)

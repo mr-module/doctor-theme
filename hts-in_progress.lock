@@ -1,0 +1,7 @@
+Mirror in progress since Thu, 23 Aug 2018 00:23:09 .. please wait!
+winhttrack http://patterson.themerex.net/ -O ""/home/hp/websites/doctor theme"" -Y -%v 
+To pause the engine: create an empty file named 'hts-stop.lock'
+PID=7438
+UID=1000
+GID=1000
+START=1534963989
